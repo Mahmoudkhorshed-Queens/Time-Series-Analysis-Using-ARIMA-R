@@ -1,5 +1,5 @@
 # Time-Series-Analysis-Using-ARIMA-R
- I build an ARIMA model to predict monthly sales retail
+   I build an ARIMA model to predict monthly sales retail
  
  Time Series Analysis provides a scientific methodology for sales forecasting. Time 
 Series Analysis is the analysis of sequential data across equally spaced units of 
